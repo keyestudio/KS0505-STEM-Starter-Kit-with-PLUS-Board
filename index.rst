@@ -4,7 +4,7 @@
    :caption: KS0505 Keyestudio STEM Starter Kit with plus board
 
 
-   KS0505.md
+   docs/KS0505.md
 
 
 
